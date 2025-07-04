@@ -1,12 +1,10 @@
 # Import Constants
 
-*[Summary goes here]*
-
-*[Description goes here]*
+Alias all constants from one namespace into another.
 
 ## Documentation
 
-*[Link to documentation goes here]*
+See the [TestBench website](http://test-bench.software) for more information, examples, and user guides.
 
 ## License
 
