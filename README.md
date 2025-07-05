@@ -1,4 +1,4 @@
-# TEMPLATE-PROJECT-NAME
+# Import Constants
 
 *[Summary goes here]*
 
@@ -10,4 +10,4 @@
 
 ## License
 
-The `TEMPLATE-GEM-NAME` library is released under the [MIT License](./MIT-License.txt)
+The `import_constants` library is released under the [MIT License](./MIT-License.txt)
